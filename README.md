@@ -91,6 +91,7 @@ The verification plan links system requirements to planned verification activiti
 
 - Cameo Systems Modeler / MagicDraw
 - SysML
+- Python
 - MATLAB
 - Fusion 360
 - Git / GitHub
@@ -105,6 +106,7 @@ My work on TARS includes:
 - Developing parametric mission-energy analysis
 - Integrating computing, sensing, control, power, user-interface, and mechanical design considerations
 - Supporting physical component selection and mechanical integration
+- Modifying an existing CAD baseline for component fitment and integration; the original CAD geometry was not authored by me
 
 ## Repository Structure
 
@@ -113,6 +115,10 @@ TARS-Digital-Twin/
 ├── README.md
 ├── model/          # Native Cameo source model
 ├── diagrams/       # Exported SysML diagrams for browser viewing
+├── src/
+│   ├── python/     # Python implementation and test code
+│   └── matlab/     # MATLAB engineering analysis and simulation
+├── cad/            # Modified third-party CAD and provenance notes
 └── docs/           # Architecture, requirements, verification, and project documentation
 ```
 

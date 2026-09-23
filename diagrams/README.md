@@ -12,11 +12,18 @@ This Block Definition Diagram shows the top-level TARS system decomposition and 
 
 [Open full-size diagram](./BDD-LA-01%20TARS%20Logical%20Architecture.jpg)
 
+### STM-01 — TARS Operational States
+
+This State Machine Diagram captures the primary operating states and transitions used to model TARS behavior, including controller pairing, digital twin synchronization, SafeStop, maintenance, and fault-response logic.
+
+![TARS Operational States](./STM-01%20TARS%20Operational%20States.jpg)
+
+[Open full-size diagram](./STM-01%20TARS%20Operational%20States.jpg)
+
 ## Planned Exports
 
 - Internal Block Diagram (IBD)
 - Activity Diagram
-- State Machine Diagram
 - Sequence Diagram
 - Parametric Diagram
 - Requirements / verification views

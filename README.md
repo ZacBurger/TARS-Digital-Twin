@@ -44,6 +44,14 @@ The logical architecture below shows the top-level TARS decomposition and major 
 
 [Open full-size logical architecture diagram](./diagrams/BDD-LA-01%20TARS%20Logical%20Architecture.jpg)
 
+### Featured Behavioral View
+
+The operational state model below shows how TARS transitions through normal operating modes, synchronization and pairing behavior, SafeStop, maintenance, and fault-response conditions.
+
+![TARS Operational States](./diagrams/STM-01%20TARS%20Operational%20States.jpg)
+
+[Open full-size operational states diagram](./diagrams/STM-01%20TARS%20Operational%20States.jpg)
+
 ## Parametric Analysis
 
 A mission-energy model evaluates relationships among:

@@ -52,6 +52,14 @@ The operational state model below shows how TARS transitions through normal oper
 
 [Open full-size operational states diagram](./diagrams/STM-01%20TARS%20Operational%20States.jpg)
 
+### Featured Interaction View
+
+The demonstration-mission sequence model shows time-ordered interactions between participating system elements during mission execution.
+
+![Execute Demonstration Mission](./diagrams/SEQ-01%20Execute%20Demonstration%20Mission.jpg)
+
+[Open full-size demonstration mission sequence diagram](./diagrams/SEQ-01%20Execute%20Demonstration%20Mission.jpg)
+
 ## Parametric Analysis
 
 A mission-energy model evaluates relationships among:

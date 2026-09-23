@@ -79,6 +79,14 @@ This analysis supports design decisions related to power availability and missio
 
 [Open full-size mission energy analysis diagram](./diagrams/PAR-01%20Mission%20Energy%20Analysis.jpg)
 
+## Verification & Traceability
+
+The verification plan links system requirements to planned verification activities, supporting traceability from requirements through verification.
+
+![TARS Verification Plan](./diagrams/VER-01%20TARS%20Verification%20Plan.jpg)
+
+[Open full-size verification plan](./diagrams/VER-01%20TARS%20Verification%20Plan.jpg)
+
 ## Tools & Technologies
 
 - Cameo Systems Modeler / MagicDraw

@@ -75,7 +75,7 @@ My work on TARS includes:
 ```text
 TARS-Digital-Twin/
 ├── README.md
-├── model/          # Cameo model files and model notes
+├── model/          # Native Cameo source model
 ├── diagrams/       # Exported SysML diagrams for browser viewing
 └── docs/           # Architecture, requirements, verification, and project documentation
 ```
@@ -84,10 +84,13 @@ TARS-Digital-Twin/
 
 This repository represents an active work in progress. The model and supporting documentation will continue to evolve as the architecture, verification approach, simulation behavior, and physical design mature.
 
+Current native model:
+
+- [`TARS_SysML_Master.mdzip`](./model/TARS_SysML_Master.mdzip)
+
 Planned repository updates include:
 
 - Exported recruiter-viewable SysML diagrams
-- Current Cameo `.mdzip` model
 - Requirements and verification documentation
 - System architecture overview
 - Hardware and integration documentation

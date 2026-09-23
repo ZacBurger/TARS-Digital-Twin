@@ -28,9 +28,16 @@ This Sequence Diagram shows time-ordered interactions across the demonstration m
 
 [Open full-size diagram](./SEQ-01%20Execute%20Demonstration%20Mission.jpg)
 
+### PAR-01 — Mission Energy Analysis
+
+This Parametric Diagram captures the relationships among battery voltage, battery capacity, conversion efficiency, average power, mission duration, usable energy, required energy, and energy margin. It provides an analytical view for assessing whether the power architecture can support the planned mission duration.
+
+![Mission Energy Analysis](./PAR-01%20Mission%20Energy%20Analysis.jpg)
+
+[Open full-size diagram](./PAR-01%20Mission%20Energy%20Analysis.jpg)
+
 ## Planned Exports
 
 - Internal Block Diagram (IBD)
 - Activity Diagram
-- Parametric Diagram
 - Requirements / verification views

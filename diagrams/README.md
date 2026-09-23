@@ -36,8 +36,16 @@ This Parametric Diagram captures the relationships among battery voltage, batter
 
 [Open full-size diagram](./PAR-01%20Mission%20Energy%20Analysis.jpg)
 
+### VER-01 — TARS Verification Plan
+
+This verification view documents planned verification activities and their relationship to system requirements, demonstrating how the model supports requirements-to-test traceability and verification planning.
+
+![TARS Verification Plan](./VER-01%20TARS%20Verification%20Plan.jpg)
+
+[Open full-size diagram](./VER-01%20TARS%20Verification%20Plan.jpg)
+
 ## Planned Exports
 
 - Internal Block Diagram (IBD)
 - Activity Diagram
-- Requirements / verification views
+- Requirements views

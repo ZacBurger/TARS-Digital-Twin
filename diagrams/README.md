@@ -20,10 +20,17 @@ This State Machine Diagram captures the primary operating states and transitions
 
 [Open full-size diagram](./STM-01%20TARS%20Operational%20States.jpg)
 
+### SEQ-01 — Execute Demonstration Mission
+
+This Sequence Diagram shows time-ordered interactions across the demonstration mission scenario, making system responsibilities, message flow, and coordination between participating elements easier to review.
+
+![Execute Demonstration Mission](./SEQ-01%20Execute%20Demonstration%20Mission.jpg)
+
+[Open full-size diagram](./SEQ-01%20Execute%20Demonstration%20Mission.jpg)
+
 ## Planned Exports
 
 - Internal Block Diagram (IBD)
 - Activity Diagram
-- Sequence Diagram
 - Parametric Diagram
 - Requirements / verification views

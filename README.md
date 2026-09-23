@@ -36,6 +36,14 @@ The current SysML model includes:
 
 The state model includes normal operating behavior, controller pairing, digital twin synchronization, SafeStop behavior, maintenance, and fault-response logic.
 
+### Featured Architecture View
+
+The logical architecture below shows the top-level TARS decomposition and major subsystem relationships.
+
+![TARS Logical Architecture](./diagrams/BDD-LA-01%20TARS%20Logical%20Architecture.jpg)
+
+[Open full-size logical architecture diagram](./diagrams/BDD-LA-01%20TARS%20Logical%20Architecture.jpg)
+
 ## Parametric Analysis
 
 A mission-energy model evaluates relationships among:

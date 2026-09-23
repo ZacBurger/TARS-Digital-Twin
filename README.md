@@ -75,6 +75,10 @@ A mission-energy model evaluates relationships among:
 
 This analysis supports design decisions related to power availability and mission-duration requirements.
 
+![Mission Energy Analysis](./diagrams/PAR-01%20Mission%20Energy%20Analysis.jpg)
+
+[Open full-size mission energy analysis diagram](./diagrams/PAR-01%20Mission%20Energy%20Analysis.jpg)
+
 ## Tools & Technologies
 
 - Cameo Systems Modeler / MagicDraw
